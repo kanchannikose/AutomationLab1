@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 3AFB-8EC9
-
- Directory of C:\Users\HP\Desktop\Git Project
-
-30-12-2023  15:15    <DIR>          .
-30-12-2023  15:12    <DIR>          ..
-30-12-2023  15:15                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  182,459,609,088 bytes free
+ change 1
